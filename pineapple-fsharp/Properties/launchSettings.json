@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pineapple-fsharp": {
+      "commandName": "Project",
+      "commandLineArgs": "hello-world.pineapple"
+    }
+  }
+}
